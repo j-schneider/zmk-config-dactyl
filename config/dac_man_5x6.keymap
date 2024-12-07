@@ -27,7 +27,7 @@
 &kp LALT   &kp A      &kp S     &kp D      &kp F      &kp G                           &kp H      &kp J      &kp K      &kp L      &mt LGUI SEMI  &kp SQT
 &kp LCTRL  &kp Z      &kp X     &kp C      &kp V      &kp B                           &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH       &kp RALT
                       &kp LBKT  &mt LGUI RBKT                                                               &kp MINUS  &kp EQUAL
-                                          &mo RAISE  &kp SPACE                &kp ENTER   &mo LOWER
+                                          &mo RAISE                                             &mo LOWER
                                                       &kp HOME &kp LSHIFT   &kp BSPC    &kp PG_UP
                                                       &kp END  &kp INS      &kp DEL     &kp PG_DN
             >;
@@ -50,7 +50,7 @@
 &bt BT_NXT    &bt BT_PRV    &kp PG_UP     &kp PG_DN     &kp END       &kp LPAR                        &kp RPAR      &kp 4      &kp 5      &kp 6      &kp MINUS      &kp PIPE
 &bt BT_CLR    &trans        &trans        &trans        &trans        &sys_reset                      &bootloader   &kp 1      &kp 2      &kp 3      &kp FSLH       &kp UNDER
                             &trans        &kp PSCRN                                                                            &trans     &trans
-                                                        &trans       &trans                          &trans        &trans
+                                                        &trans                                           &trans
                                                                  &trans &trans            &trans &trans
                                                                  &trans &trans            &trans &trans
             >;
@@ -73,7 +73,7 @@
 &trans     &kp LEFT   &kp UP     &kp DOWN   &kp RIGHT  &kp C_VOL_DN                    &trans     &kp H      &kp J      &kp K      &kp L       &trans
 &trans     &trans     &trans     &trans     &trans     &kp C_MUTE                      &trans     &trans     &trans     &trans     &trans      &trans
                       &trans  &trans                                                              &trans     &trans
-                                             &trans  &trans                 &trans   &trans
+                                             &transform                                &trans
                                                       &trans &trans   &trans    &trans
                                                       &trans &trans   &trans    &trans
             >;
