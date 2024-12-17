@@ -29,8 +29,8 @@
 &kp LCTRL  &kp Z   &kp X     &kp C              &kp V      &kp B                            &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH       &kp RALT
                    &kp LBKT  &kp RIGHT_BRACKET                                                                    &kp MINUS  &kp EQUAL
                                                 &mo RAISE                                              &mo LOWER
-                                                           &kp LCMD   &kp LSHIFT  &kp BSPC  &kp PG_UP
-                                                           &kp SPACE  &kp INS     &kp DEL   &kp PG_DN
+                                                           &kp LCMD   &kp LSHIFT  &kp RCTRL  &kp ENTER
+                                                           &kp SPACE  &kp INS     &kp RALT   &kp BACKSPACE
             >;
         };
 
