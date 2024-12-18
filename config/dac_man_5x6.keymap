@@ -28,9 +28,9 @@
 &kp LALT   &kp A   &kp S     &kp D              &kp F      &kp G                            &kp H      &kp J      &kp K      &kp L      &mt LGUI SEMI  &kp SQT
 &kp LCTRL  &kp Z   &kp X     &kp C              &kp V      &kp B                            &kp N      &kp M      &kp COMMA  &kp DOT    &kp FSLH       &kp RALT
                    &kp LBKT  &kp RIGHT_BRACKET                                                                    &kp MINUS  &kp EQUAL
-                                                &mo RAISE                                              &mo LOWER
-                                                           &kp LCMD   &kp LSHIFT  &kp RCTRL  &kp ENTER
-                                                           &kp SPACE  &kp INS     &kp RALT   &kp BACKSPACE
+                                                &mo N1                                              &kp N1
+                                                           &kp N2   &kp N3  &kp N3  &kp N2
+                                                           &kp N5  &kp N4     &kp N4  &kp N5
             >;
         };
 
