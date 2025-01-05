@@ -30,7 +30,7 @@
                    &kp LBKT  &kp RIGHT_BRACKET                                                                     &kp MINUS  &kp EQUAL
                                                 &mo 1                                                   &kp ENTER
                                                         &kp SPACE   &kp N3         &kp RCTRL  &kp RCMD
-                                                        &kp LSHIFT  &kp BACKSPACE  &kp RALT   &kp N5
+                                                        &kp SPACE  &kp BACKSPACE  &kp RALT   &kp N5
             >;
         };
 
